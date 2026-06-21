@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-SpaceX advertises Falcon 9 launches at ~$62M — far cheaper than competitors (~$165M+) — largely
+SpaceX advertises Falcon 9 launches at(~$165M+) — largely
 because it reuses the rocket's first stage instead of discarding it. This project builds a machine
 learning classifier to predict whether the first stage will land successfully, which can be used to
 estimate the cost of a given launch.
